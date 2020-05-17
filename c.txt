@@ -1,6 +1,13 @@
 learning git process
 
 
+
 learning git
 
 today may 17th
+
+learning branching
+
+
+modified content in b1 branch
+
