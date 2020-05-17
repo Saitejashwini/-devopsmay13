@@ -1,4 +1,6 @@
 learning git process
 
 
-learning branching
+learning git
+
+today may 17th
